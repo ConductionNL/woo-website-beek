@@ -1,0 +1,118 @@
+[
+    {
+      "title": "Bezoekadres",
+      "items": [
+        {
+          "ariaLabel": "Wij werken op afspraak",
+          "value": "Wij werken op afspraak",
+          "link": "https://beek.mijnafspraakmaken.nl/",
+          "icon": {
+            "icon": "up-right-from-square",
+            "prefix": "fas",
+            "placement": "right"
+          }
+        },
+        {
+          "multiRow": "Raadhuisstraat 9 \n 6191 KA Beek"
+        },
+        {
+          "title": "Postadres"
+        },
+        {
+          "ariaLabel": "Postbus 20, 6190 AA Beek",
+          "multiRow": "Postbus 20 \n 6190 AA Beek"
+        },
+        {
+          "ariaLabel": "Plan uw route naar Raadhuisstraat 9, 6191 KA Beek",
+          "value": "Plan uw route",
+          "link": "https://www.google.nl/maps/dir//Raadhuisstraat+9,+6191+KA+Beek/@50.9391351,5.7900439,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47c0c12700f7d3ff:0x79a3d8c2a7072fd1!2m2!1d5.7944213!2d50.9391352!3e0",
+          "icon": {
+            "icon": "location-pin",
+            "prefix": "fas",
+            "placement": "right"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": [
+        {
+          "ariaLabel": "Maak een afspraak",
+          "value": "Afspraak maken",
+          "link": "https://beek.mijnafspraakmaken.nl/",
+          "icon": {
+            "icon": "up-right-from-square",
+            "prefix": "fas",
+            "placement": "right"
+          }
+        },
+        {
+          "ariaLabel": "Bekijk onze contactinformatie",
+          "value": "Contactinformatie",
+          "link": "https://www.gemeentebeek.nl/contactinformatie"
+        },
+        {
+          "ariaLabel": "Ga naar het contactformulier",
+          "value": "Contactformulier",
+          "link": "https://www.gemeentebeek.nl/form/contact/contactformulier-0"
+        },
+        {
+          "ariaLabel": "Bekijk onze openingstijden",
+          "value": "Openingstijden",
+          "link": "https://www.gemeentebeek.nl/openingstijden"
+        },
+        {
+          "ariaLabel": "Bel ons op 046-43 89 222",
+          "value": "Telefoon: 046- 43 89 222",
+          "link": "tel:0464389222"
+        },
+        {
+          "ariaLabel": "Meer informatie over de website",
+          "value": "Over de website",
+          "link": "https://www.gemeentebeek.nl/over-de-website",
+          "icon": {
+            "icon": "circle-info",
+            "prefix": "fas",
+            "placement": "right"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Praat mee!",
+      "items": [
+        {
+          "ariaLabel": "Bezoek onze Facebook pagina",
+          "value": "Facebook",
+          "link": "https://www.facebook.com/uwgemeenteBeek/",
+          "icon": {
+            "icon": "facebook",
+            "prefix": "fab",
+            "placement": "left"
+          }
+        },
+        {
+          "ariaLabel": "Volg ons op Instagram",
+          "value": "Instagram",
+          "link": "https://www.instagram.com/gemeente.beek/",
+          "icon": {
+            "icon": "instagram",
+            "prefix": "fab",
+            "placement": "left"
+          }
+        },
+        {
+          "ariaLabel": "Volg ons op LinkedIn",
+          "value": "LinkedIn",
+          "link": "https://www.linkedin.com/company/gemeente-beek",
+          "icon": {
+            "icon": "linkedin",
+            "prefix": "fab",
+            "placement": "left"
+          }
+        }
+      ]
+    }
+  ]
+  
